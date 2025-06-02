@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Розумний XML редактор для RimWorld Mod Builder v2.0.1
+Розумний XML редактор для RimWorld Mod Builder v1.0.1 Alpha
 Автодоповнення, валідація в реальному часі, пропозиції значень
 """
 
