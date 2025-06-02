@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Діалог управління залежностями для RimWorld Mod Builder v2.0.1
+Діалог управління залежностями для RimWorld Mod Builder v1.0.1 Alpha
 CustomTkinter інтерфейс для DependencyManager
 """
 
