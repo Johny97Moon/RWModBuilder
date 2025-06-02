@@ -1,7 +1,7 @@
 # -*- mode: python ; coding: utf-8 -*-
 
 """
-PyInstaller spec файл для RimWorld Mod Builder v2.0.1
+PyInstaller spec файл для RimWorld Mod Builder v1.0.1 Alpha
 Створює автономний .exe файл з усіма залежностями
 Оптимізовано для розміру <100MB та повної функціональності
 """
