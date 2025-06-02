@@ -1,0 +1,25 @@
+# RimWorld Mod Builder - Незалежні залежності (БЕЗ компіляторів C++)
+
+# GUI Framework (основний)
+customtkinter>=5.2.0
+
+# Обробка зображень (тільки Pillow - не потребує компіляції)
+Pillow>=10.0.0
+imageio>=2.25.0
+
+# Мережеві запити
+requests>=2.28.0
+
+# Утиліти (не потребують компіляції)
+colorama>=0.4.6
+packaging>=21.0
+
+# Тестування
+pytest>=7.0.0
+
+# ПРИМІТКА: Всі XML, PSD, SVG, системні функції реалізовані через альтернативні модулі
+# Опціональні залежності (потребують Microsoft Visual C++ 14.0+):
+# lxml>=4.9.0          # XML обробка (є альтернатива: enhanced_xml_validator)
+# psd-tools>=1.9.0     # PSD файли (є альтернатива: psd_alternative)
+# cairosvg>=2.5.0      # SVG файли (є альтернатива: svg_alternative)
+# psutil>=5.8.0        # Системна інформація (є альтернатива: system_info_alternative)

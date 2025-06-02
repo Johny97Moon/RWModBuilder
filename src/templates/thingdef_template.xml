@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThingDef>
+        <defName>{{def_name}}</defName>
+        <label>{{label}}</label>
+        <description>{{description}}</description>
+        <thingClass>Thing</thingClass>
+        <category>Item</category>
+        <tickerType>Never</tickerType>
+        <altitudeLayer>Item</altitudeLayer>
+        <passability>PassThroughOnly</passability>
+        <selectable>true</selectable>
+        <stackLimit>75</stackLimit>
+        <statBases>
+            <MaxHitPoints>100</MaxHitPoints>
+            <MarketValue>{{market_value}}</MarketValue>
+            <Mass>{{mass}}</Mass>
+            <Flammability>1.0</Flammability>
+        </statBases>
+        <graphicData>
+            <texPath>{{texture_path}}</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+        </graphicData>
+        <soundInteract>Standard_Drop</soundInteract>
+        <soundDrop>Standard_Drop</soundDrop>
+        <useHitPoints>true</useHitPoints>
+        <pathCost>15</pathCost>
+    </ThingDef>
+</Defs>

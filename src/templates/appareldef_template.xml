@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThingDef ParentName="ApparelBase">
+        <defName>{{def_name}}</defName>
+        <label>{{label}}</label>
+        <description>{{description}}</description>
+        <techLevel>{{tech_level}}</techLevel>
+        <recipeMaker>
+            <researchPrerequisite>{{research_prerequisite}}</researchPrerequisite>
+            <skillRequirements>
+                <Crafting>{{crafting_skill}}</Crafting>
+            </skillRequirements>
+            <recipeUsers>
+                <li>{{recipe_user}}</li>
+            </recipeUsers>
+        </recipeMaker>
+        <graphicData>
+            <texPath>{{texture_path}}</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+        </graphicData>
+        <costList>
+            <{{material_def_name}}>{{material_count}}</{{material_def_name}}>
+        </costList>
+        <statBases>
+            <WorkToMake>{{work_to_make}}</WorkToMake>
+            <MaxHitPoints>{{max_hit_points}}</MaxHitPoints>
+            <Mass>{{mass}}</Mass>
+            <Flammability>{{flammability}}</Flammability>
+            <ArmorRating_Sharp>{{armor_sharp}}</ArmorRating_Sharp>
+            <ArmorRating_Blunt>{{armor_blunt}}</ArmorRating_Blunt>
+            <ArmorRating_Heat>{{armor_heat}}</ArmorRating_Heat>
+            <Insulation_Cold>{{insulation_cold}}</Insulation_Cold>
+            <Insulation_Heat>{{insulation_heat}}</Insulation_Heat>
+            <EquipDelay>{{equip_delay}}</EquipDelay>
+        </statBases>
+        <apparel>
+            <bodyPartGroups>
+                <li>{{body_part_group}}</li>
+            </bodyPartGroups>
+            <wornGraphicPath>{{worn_graphic_path}}</wornGraphicPath>
+            <layers>
+                <li>{{apparel_layer}}</li>
+            </layers>
+            <tags>
+                <li>{{apparel_tag}}</li>
+            </tags>
+            <defaultOutfitTags>
+                <li>{{outfit_tag}}</li>
+            </defaultOutfitTags>
+        </apparel>
+        <colorGenerator Class="ColorGenerator_StandardApparel" />
+        <thingCategories>
+            <li>{{thing_category}}</li>
+        </thingCategories>
+    </ThingDef>
+</Defs>

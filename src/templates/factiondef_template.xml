@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <FactionDef>
+        <defName>{{def_name}}</defName>
+        <label>{{label}}</label>
+        <description>{{description}}</description>
+        <pawnSingular>{{pawn_singular}}</pawnSingular>
+        <pawnsPlural>{{pawns_plural}}</pawnsPlural>
+        <categoryTag>{{category_tag}}</categoryTag>
+        <listOrderPriority>{{list_order_priority}}</listOrderPriority>
+        <settlementGenerationWeight>{{settlement_generation_weight}}</settlementGenerationWeight>
+        <requiredCountAtGameStart>{{required_count_at_game_start}}</requiredCountAtGameStart>
+        <maxCountAtGameStart>{{max_count_at_game_start}}</maxCountAtGameStart>
+        <canMakeRandomly>{{can_make_randomly}}</canMakeRandomly>
+        <canSiege>{{can_siege}}</canSiege>
+        <canStageAttacks>{{can_stage_attacks}}</canStageAttacks>
+        <leaderTitle>{{leader_title}}</leaderTitle>
+        <factionIconPath>{{faction_icon_path}}</factionIconPath>
+        <colorSpectrum>
+            <li>({{color_r}}, {{color_g}}, {{color_b}})</li>
+        </colorSpectrum>
+        <settlementNameMaker>{{settlement_name_maker}}</settlementNameMaker>
+        <factionNameMaker>{{faction_name_maker}}</factionNameMaker>
+        <techLevel>{{tech_level}}</techLevel>
+        <backstoryFilters>
+            <li>
+                <categories>
+                    <li>{{backstory_category}}</li>
+                </categories>
+            </li>
+        </backstoryFilters>
+        <caravanTraderKinds>
+            <li>{{caravan_trader_kind}}</li>
+        </caravanTraderKinds>
+        <visitorTraderKinds>
+            <li>{{visitor_trader_kind}}</li>
+        </visitorTraderKinds>
+        <baseTraderKinds>
+            <li>{{base_trader_kind}}</li>
+        </baseTraderKinds>
+        <allowedArrivalTemperatureRange>{{min_temp}}~{{max_temp}}</allowedArrivalTemperatureRange>
+        <pawnGroupMakers>
+            <li>
+                <kindDef>{{pawn_group_kind}}</kindDef>
+                <options>
+                    <{{pawn_kind_def_name}}>{{pawn_kind_weight}}</{{pawn_kind_def_name}}>
+                </options>
+            </li>
+        </pawnGroupMakers>
+        <settlementTexturePath>{{settlement_texture_path}}</settlementTexturePath>
+    </FactionDef>
+</Defs>

@@ -1,0 +1,74 @@
+2025-05-31 00:56:05 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 00:56:05 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 01:03:20 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 01:03:21 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:09:18 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:09:19 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:09:50 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:09:51 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:13:01 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:13:01 - RimWorldModBuilder - INFO - Тестове повідомлення INFO
+2025-05-31 18:13:01 - RimWorldModBuilder - WARNING - Тестове попередження
+2025-05-31 18:13:01 - RimWorldModBuilder - ERROR - Тестова помилка
+2025-05-31 18:17:16 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:17:16 - RimWorldModBuilder - INFO - Тестове повідомлення INFO
+2025-05-31 18:17:16 - RimWorldModBuilder - WARNING - Тестове попередження
+2025-05-31 18:17:16 - RimWorldModBuilder - ERROR - Тестова помилка
+2025-05-31 18:19:12 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:19:14 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:19:14 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:30:46 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:30:46 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:30:46 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:35:16 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:35:17 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:35:17 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:35:21 - RimWorldModBuilder - ERROR - Помилка відкриття налаштувань: QFontDatabase(a0: QFontDatabase): not enough arguments
+2025-05-31 18:35:44 - RimWorldModBuilder - ERROR - Помилка відкриття налаштувань: QFontDatabase(a0: QFontDatabase): not enough arguments
+2025-05-31 18:36:00 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:36:01 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:36:43 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:36:44 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:37:00 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:37:01 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:37:01 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:38:19 - RimWorldModBuilder - INFO - Початок перевірки сумісності для D:/Games/RimWorld/Mods/WakThat
+2025-05-31 18:38:38 - RimWorldModBuilder - DEBUG - Зупинка пулу потоків
+2025-05-31 18:39:57 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:39:57 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:39:57 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:41:44 - RimWorldModBuilder - DEBUG - Зупинка пулу потоків
+2025-05-31 18:42:06 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:42:07 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:42:08 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:42:46 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:42:48 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:42:48 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:42:48 - RimWorldModBuilder - DEBUG - Зупинка пулу потоків
+2025-05-31 18:43:02 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:43:03 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:43:04 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:43:56 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:43:56 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:43:56 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:43:57 - RimWorldModBuilder - DEBUG - Зупинка пулу потоків
+2025-05-31 18:43:57 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:45:08 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:45:09 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:45:09 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:45:09 - RimWorldModBuilder - DEBUG - Зупинка пулу потоків
+2025-05-31 18:45:09 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:48:32 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:50:56 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:51:15 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:51:29 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:51:30 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:51:30 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 18:52:06 - RimWorldModBuilder - DEBUG - Зупинка пулу потоків
+2025-05-31 18:55:54 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 18:55:54 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 18:55:54 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 19:00:51 - RimWorldModBuilder - INFO - === RimWorldModBuilder запущено ===
+2025-05-31 19:00:52 - RimWorldModBuilder - DEBUG - Запущено пул потоків з 4 воркерами
+2025-05-31 19:00:52 - RimWorldModBuilder - INFO - Головне вікно ініціалізовано
+2025-05-31 19:02:47 - RimWorldModBuilder - DEBUG - Зупинка пулу потоків

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>{{mod_name}}</name>
+    <author>{{author}}</author>
+    <packageId>{{package_id}}</packageId>
+    <description>{{description}}</description>
+    <supportedVersions>
+        <li>1.5</li>
+    </supportedVersions>
+    <modDependencies>
+        <!-- Додайте залежності тут -->
+    </modDependencies>
+    <loadAfter>
+        <!-- Моди, після яких завантажувати -->
+    </loadAfter>
+    <loadBefore>
+        <!-- Моди, перед якими завантажувати -->
+    </loadBefore>
+</ModMetaData>

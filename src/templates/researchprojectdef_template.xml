@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ResearchProjectDef>
+        <defName>{{def_name}}</defName>
+        <label>{{label}}</label>
+        <description>{{description}}</description>
+        <baseCost>{{base_cost}}</baseCost>
+        <techLevel>{{tech_level}}</techLevel>
+        <prerequisites>
+            <li>{{prerequisite}}</li>
+        </prerequisites>
+        <researchViewX>{{research_view_x}}</researchViewX>
+        <researchViewY>{{research_view_y}}</researchViewY>
+        <tab>{{research_tab}}</tab>
+        <requiredResearchBuilding>{{required_building}}</requiredResearchBuilding>
+        <requiredResearchFacilities>
+            <li>{{required_facility}}</li>
+        </requiredResearchFacilities>
+        <tags>
+            <li>{{tag}}</li>
+        </tags>
+        <discoveredLetterTitle>{{letter_title}}</discoveredLetterTitle>
+        <discoveredLetterText>{{letter_text}}</discoveredLetterText>
+    </ResearchProjectDef>
+</Defs>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <RecipeDef>
+        <defName>{{def_name}}</defName>
+        <label>{{label}}</label>
+        <description>{{description}}</description>
+        <jobString>{{job_string}}</jobString>
+        <workSpeedStat>GeneralLaborSpeed</workSpeedStat>
+        <effectWorking>Cook</effectWorking>
+        <soundWorking>Recipe_CookMeal</soundWorking>
+        <allowMixingIngredients>true</allowMixingIngredients>
+        <workAmount>{{work_amount}}</workAmount>
+        <targetCountAdjustment>1</targetCountAdjustment>
+        <ingredients>
+            <li>
+                <filter>
+                    <categories>
+                        <li>{{ingredient_category}}</li>
+                    </categories>
+                </filter>
+                <count>{{ingredient_count}}</count>
+            </li>
+        </ingredients>
+        <products>
+            <{{product_def_name}}>{{product_count}}</{{product_def_name}}>
+        </products>
+        <skillRequirements>
+            <{{skill_name}}>{{skill_level}}</{{skill_name}}>
+        </skillRequirements>
+        <workSkill>{{work_skill}}</workSkill>
+        <recipeUsers>
+            <li>{{recipe_user}}</li>
+        </recipeUsers>
+        <researchPrerequisite>{{research_prerequisite}}</researchPrerequisite>
+    </RecipeDef>
+</Defs>

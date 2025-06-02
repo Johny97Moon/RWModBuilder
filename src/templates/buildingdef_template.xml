@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+    <ThingDef ParentName="BuildingBase">
+        <defName>{{def_name}}</defName>
+        <label>{{label}}</label>
+        <description>{{description}}</description>
+        <thingClass>Building</thingClass>
+        <graphicData>
+            <texPath>{{texture_path}}</texPath>
+            <graphicClass>Graphic_Single</graphicClass>
+            <drawSize>{{draw_size}}</drawSize>
+        </graphicData>
+        <altitudeLayer>Building</altitudeLayer>
+        <passability>PassThroughOnly</passability>
+        <blockWind>true</blockWind>
+        <fillPercent>0.4</fillPercent>
+        <blockLight>true</blockLight>
+        <canOverlapZones>false</canOverlapZones>
+        <statBases>
+            <WorkToBuild>{{work_to_build}}</WorkToBuild>
+            <MaxHitPoints>{{max_hit_points}}</MaxHitPoints>
+            <Beauty>{{beauty}}</Beauty>
+            <Flammability>{{flammability}}</Flammability>
+        </statBases>
+        <size>({{size_x}},{{size_y}})</size>
+        <costList>
+            <{{material_def_name}}>{{material_count}}</{{material_def_name}}>
+        </costList>
+        <leaveResourcesWhenKilled>true</leaveResourcesWhenKilled>
+        <filthLeaving>Filth_RubbleBuilding</filthLeaving>
+        <designationCategory>{{designation_category}}</designationCategory>
+        <constructEffect>ConstructMetal</constructEffect>
+        <researchPrerequisites>
+            <li>{{research_prerequisite}}</li>
+        </researchPrerequisites>
+        <constructionSkillPrerequisite>{{construction_skill}}</constructionSkillPrerequisite>
+    </ThingDef>
+</Defs>

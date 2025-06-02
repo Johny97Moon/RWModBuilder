@@ -1,0 +1,35 @@
+# RimWorld Mod Builder - Опціональні залежності
+# УВАГА: Ці залежності потребують Microsoft Visual C++ 14.0 або новіший!
+# Встановлюйте тільки якщо маєте Visual Studio Build Tools або Visual Studio Community
+
+# XML обробка (покращена)
+lxml>=4.9.0
+
+# PSD файли Photoshop
+psd-tools>=1.9.0
+
+# SVG файли
+cairosvg>=2.5.0
+
+# Системна інформація
+psutil>=5.8.0
+
+# Додаткові формати зображень
+# imageio>=2.25.0  # Вже включено в основні залежності
+
+# ІНСТРУКЦІЇ ДЛЯ ВСТАНОВЛЕННЯ:
+# 
+# 1. Встановіть Microsoft C++ Build Tools:
+#    https://visualstudio.microsoft.com/visual-cpp-build-tools/
+#    
+# 2. Встановіть опціональні залежності:
+#    pip install -r requirements_optional.txt
+#    
+# 3. Перевірте встановлення:
+#    python check_dependencies.py
+#
+# АЛЬТЕРНАТИВИ (якщо не хочете встановлювати компілятор):
+# - XML: enhanced_xml_validator.py (вбудований)
+# - PSD: psd_alternative.py (інструкції для конвертації)
+# - SVG: svg_alternative.py (інструкції для конвертації)
+# - Системна інформація: system_info_alternative.py (вбудований)
