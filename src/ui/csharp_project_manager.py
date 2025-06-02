@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Менеджер C# проєктів для RimWorld Mod Builder v2.0.1
+Менеджер C# проєктів для RimWorld Mod Builder v1.0.1 Alpha
 UI для створення, редагування та компіляції C# модів
 """
 
