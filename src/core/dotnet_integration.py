@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Інтеграція з .NET Framework для RimWorld Mod Builder v2.0.1
+Інтеграція з .NET Framework для RimWorld Mod Builder v1.0.1 Alpha
 Підтримка C# компонентів, компіляції та .NET бібліотек
 """
 
