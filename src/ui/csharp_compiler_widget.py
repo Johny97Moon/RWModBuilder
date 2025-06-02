@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Віджет компілятора C# для RimWorld Mod Builder v2.0.1
+Віджет компілятора C# для RimWorld Mod Builder v1.0.1 Alpha
 UI для компіляції, тестування та налагодження C# проєктів
 """
 
