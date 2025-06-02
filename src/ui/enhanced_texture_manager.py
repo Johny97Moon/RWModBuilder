@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Покращений менеджер текстур для RimWorld Mod Builder v2.0.1
+Покращений менеджер текстур для RimWorld Mod Builder v1.0.1 Alpha
 Розширені функції: batch конвертація, drag & drop, zoom/pan, метадані, undo/redo
 """
 
