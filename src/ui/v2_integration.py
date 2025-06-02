@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 """
-Інтеграція компонентів RimWorld Mod Builder v2.0.1
+Інтеграція компонентів RimWorld Mod Builder v1.0.1 Alpha
 Об'єднання всіх нових функцій Priority 1
 """
 
